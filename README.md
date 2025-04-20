@@ -1,1 +1,1 @@
-Bu projede basit bir Java "Hello, World!" uygulaması yazdım.
+Bu projede basit bir Java "Hello World!" uygulaması yazdım.
